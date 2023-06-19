@@ -146,7 +146,7 @@ button:hover{
     margin-right: 10px;
 }
 
-@media(min-width: 1200px)
+@media(min-width: 1000px)
 {
     body{
         background-color: hsl(31, 47%, 91%);
@@ -182,9 +182,9 @@ button:hover{
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 10px;
     border-top-right-radius: 10px;
-    height: 64.5vh;    
+    height: 61.5vh;    
+    margin-top: 1px;
     width: 270px;
-    margin-top: 0.5px;
     padding: 20px 30px;
 }
 
